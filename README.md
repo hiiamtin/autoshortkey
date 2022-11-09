@@ -14,6 +14,7 @@ BASE_PATH=your_path
 
 # How to run
 * double click `autoshortkey.command`
+
 *__NOTE__* <br>
 if you run it the first time maybe macOS will show an error, please enable `Input Monitoring` for terminal.
 
