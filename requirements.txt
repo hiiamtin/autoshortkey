@@ -1,0 +1,5 @@
+--index-url https://pypi.org/simple
+
+pynput==1.7.6
+python-dotenv==0.21.0
+py2app==0.28.4
